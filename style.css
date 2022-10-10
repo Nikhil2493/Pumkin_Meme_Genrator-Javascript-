@@ -79,32 +79,32 @@ header{
     border-bottom-right-radius: 5px;
 }
 
-label{
+label {
     font-size: 14px;
     padding: 3px;
     width: 100%;
     cursor: pointer;
 }
 
-.highlight{
+.highlight {
     background-color: #fff0ee;
     color: #bd301d;
     font-weight: bold;
     accent-color: #bd301d;
 }
 
-input[type="radio"]{
+input[type="radio"] {
     cursor: pointer;
 }
 
-.gifs-check{
+.gifs-check {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 16px;
 }
 
-.gifs-check-label{
+.gifs-check-label {
     width: unset;
     margin-right: 5px;
 }
