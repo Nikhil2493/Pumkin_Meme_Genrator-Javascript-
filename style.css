@@ -45,7 +45,7 @@ header{
     width: 80px;
 }
 
-.controls-container{
+.controls-container {
     display: flex;
     flex-direction: column;
     width: 200px;
@@ -54,7 +54,7 @@ header{
 
 /* controls */
 
-.emotion-radios{
+.emotion-radios {
     display: flex;
     flex-direction: column;
     border: 1px solid #bcbcbc;
@@ -68,12 +68,12 @@ header{
     padding: 4px 8px;
 }
 
-.radio:first-child{
+.radio:first-child {
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
 }
 
-.radio:last-child{
+.radio:last-child {
     border-bottom: 0;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
@@ -121,7 +121,7 @@ input[type="radio"] {
 
 /* modal */
 
-.meme-modal{
+.meme-modal {
     display: none; /*flex when displayed*/
     position: fixed;
     margin: auto;
@@ -137,13 +137,13 @@ input[type="radio"] {
     background-color: #fff0ee;
 }
 
-.cat-img{
+.cat-img {
     max-width: 340px;
     max-height: 420px;
     border-radius: 5px;
 }
 
-.meme-modal-close-btn {
+.meme-modal-close-btn  
     position: absolute;
     top: 2%;
     right: 2%;
@@ -155,7 +155,7 @@ input[type="radio"] {
     font-size: 14px;
 }
 
-.meme-modal-close-btn:hover {
+.meme-modal-close-btn:hover  
     color: white;
     background-color: #bd301d;
     border: 2px solid #bd301d;
